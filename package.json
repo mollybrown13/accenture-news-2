@@ -1,0 +1,9 @@
+{
+  "name": "accenture-news-widget",
+  "version": "1.0.0",
+  "description": "Accenture news widget with positive sentiment filtering",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "rss-parser": "^3.13.0"
+  }
+}
